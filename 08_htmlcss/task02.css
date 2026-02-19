@@ -1,0 +1,16 @@
+header.header {
+    background: #84ceef;
+    color: #fff;
+}
+
+main.main {
+    & h1 {
+        color: #e47292;
+        text-align: center;
+    }
+}
+
+footer.footer {
+    background: #040000;
+    color: #fff;
+}
